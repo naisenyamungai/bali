@@ -1,0 +1,74 @@
+body{
+    background-image: url("https://media.timeout.com/images/105240189/image.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    overflow:scroll;
+    
+}   
+h1{
+    color:rgba(52,74,113,1);
+    text-align: center;
+    font-size:20px;
+    padding:8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color:green;
+    font-style:italic;
+    text-align:center;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p.bali {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    bottom:20;
+    right:20;
+    color:rgba(52,74,113,1);
+    position:relative;
+    left:20%;
+    word-wrap:break-word;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+    overflow:auto;
+    position: relative;
+}
+li{
+    float:left;
+}
+
+li a {
+    display:inline-block;
+    text-align: center;
+    padding:8px;
+    text-decoration: none;
+    height:30px;
+    width:200px;
+    padding-top: 10px;
+    color:rgba(256,256,256,5);
+    font-size:20px;
+    margin-top:10px;
+    
+    
+}
+#banner{
+    display:block;
+    padding-top: 10px;
+    color:rgba(52,74,113,1);
+    text-align:center;
+    font-size:30px;
+    font-family:Tahoma;
+    padding-bottom: 10px;
+    box-shadow:1px 1px 1px grey;
+}
+
+ol li #activities{
+    font-size:20px;
+    margin-top:10px;
+}

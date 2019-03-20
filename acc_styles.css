@@ -1,0 +1,33 @@
+body{
+    background-image: url("https://d1vp8nomjxwyf1.cloudfront.net/wp-content/uploads/sites/113/2017/03/13134027/diamonds_mapenzi_superior_garden.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    overflow:scroll;
+    background-color: skyblue;
+    
+}  
+h1{
+    color:rgba(52,74,113,1);
+    text-align: center;
+    font-size:20px;
+    padding:8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color:green;
+    font-style:italic;
+    text-align:center;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    color:rgba(52,74,113,1);
+    text-align: center;
+    font-size:15px;
+    padding:8px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+
+
